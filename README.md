@@ -1,12 +1,4 @@
-# HowTo
-
-- Artisan
-
-    [Comandos Básicos](Artisan_Commands_Basico.md)
-
-- FormRequest
-
-    [FormRequest Básico](FormRequest_Basico.md)
+# [Eloquent - Model](https://packagist.org/packages/illuminate/database) 
 
 - Collection
 
