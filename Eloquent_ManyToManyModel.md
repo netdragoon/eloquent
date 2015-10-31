@@ -6,7 +6,7 @@ Nesse caso especifico, aonde existem além das chaves de relacionamentos, campos
 
 Segue a mesma tabela abaixo
 
-![1 para 1](https://github.com/diasfulvio/howto/blob/master/images/N-M-withpivot.png)
+![1 para 1](https://github.com/netdragoon/eloquent/blob/master/images/N-M-withpivot.png)
 
 Para refletir isso no Laravel crie a classe `BooksAuthors` igual o código logo abaixo:
 
